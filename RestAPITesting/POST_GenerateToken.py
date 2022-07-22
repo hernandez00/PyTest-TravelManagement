@@ -5,12 +5,6 @@ from RestAPITesting._util.AddressURL        import AddressURL
 import requests
 import sys
 
-def showResponse(response):
-    for headItem_k, headItem_v in response.headers.items():
-        print(f'{headItem_k:>23}: {headItem_v}')
-    
-    print(f"Body: \n {dumps(response.json(), indent=4)}")
-
 def getToken(requestType):
     
     headers = CaseInsensitiveDict()
@@ -55,3 +49,9 @@ def getToken(requestType):
         return jsonData['data']['token']
     else: 
         return False
+
+def showResponse(response):
+    for headItem_k, headItem_v in response.headers.items():
+        print(f'{headItem_k:>23}: {headItem_v}')
+    
+    print(f"Body: \n {dumps(response.json(), indent=4)}")
