@@ -1,0 +1,12 @@
+1 - Instalar InteliJ, Java JDK, etc...;
+2 - Baixar o Maven "Binary zip archive" e extrair na pasta "C:\Program Files\Java";
+3 - Adicionar o diretorio "bin" da pasta Maven na variavel de sistema Path(Variaveis de ambiente);
+4 - Selecionar uma pasta para armazenar o projeto e abrir o git bash dentro dela. Feito isso, rodar o comando git clone + URL:
+ 
+    >> git clone https://github.com/AntonioMontanha/gerenciador-viagens.git
+
+5 - Inicializar o InteliJ, selecionar a pasta do projeto baixado, aguardar a IDE executar e instalar os plugins e dependências do projeto(Demora de 18 à 20 minutos);
+6 - Após a instalação dos plugins e dependências, localizar e clicar no botão "Maven" no canto superior direito do InteliJ;
+7 - Inserir o comando "clear install" e em seguida "clean install"
+8 - Após a execução bem sucedida de todos os passos anterior, inserir o comando "spring-boot:run" para rodar o projeto.
+9 - Fim!
