@@ -1,4 +1,3 @@
-import re
 from RestAPITesting.POST_GenerateToken          import getToken
 from RestAPITesting.POST_RegisterTravel         import registerTravel
 from RestAPITesting.GET_AllTravels              import getAllTravels
