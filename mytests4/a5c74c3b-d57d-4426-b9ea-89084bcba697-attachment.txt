@@ -1,0 +1,175 @@
+ X-Content-Type-Options: nosniff
+       X-XSS-Protection: 1; mode=block
+          Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+                 Pragma: no-cache
+                Expires: 0
+        X-Frame-Options: DENY
+           Content-Type: application/json;charset=UTF-8
+      Transfer-Encoding: chunked
+                   Date: Thu, 28 Jul 2022 22:56:44 GMT
+Body: 
+ {
+    "data": [
+        {
+            "id": 1,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 2,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 3,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 4,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 5,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 6,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 7,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 8,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 9,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 10,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 11,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 12,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 13,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 14,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 15,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 16,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 17,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 18,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 19,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        },
+        {
+            "id": 20,
+            "localDeDestino": "Bahia",
+            "dataPartida": "2022-07-20",
+            "dataRetorno": "2022-08-20",
+            "acompanhante": "Nenhum",
+            "regiao": "Norte"
+        }
+    ],
+    "errors": []
+}

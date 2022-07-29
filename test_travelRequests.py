@@ -9,7 +9,7 @@ class TestTravelManagement:
 
     def test_GetAdminToken(self):
         pytest.adminToken = getToken(requestType='ADMIN_TOKEN')
-        assert pytest.adminToken
+        assert pytest.adminToken == False
 
     def test_GetCommonToken(self):
         pytest.commonToken = getToken(requestType='COMMON_TOKEN')

@@ -1,0 +1,17 @@
+{'Content-Type': 'application/json'}
+ X-Content-Type-Options: nosniff
+       X-XSS-Protection: 1; mode=block
+          Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+                 Pragma: no-cache
+                Expires: 0
+        X-Frame-Options: DENY
+           Content-Type: application/json;charset=UTF-8
+      Transfer-Encoding: chunked
+                   Date: Thu, 28 Jul 2022 22:56:44 GMT
+Body: 
+ {
+    "data": {
+        "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbkBlbWFpbC5jb20iLCJyb2xlIjoiUk9MRV9BRE1JTiIsImNyZWF0ZWQiOjE2NTkwNDkwMDQ1MzgsImV4cCI6MTY1OTE0OTAwM30.u1bvxN7XyGyZtNLReUmuhaCunnE4A7BtnQojUFVbzSLd40pdnsV3QjgU_UauhpFp2pcOnsYwYChMS744GycR6w"
+    },
+    "errors": []
+}
