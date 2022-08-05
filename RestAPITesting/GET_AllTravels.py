@@ -27,4 +27,4 @@ def showResponse(response):
     for headItem_k, headItem_v in response.headers.items():
         print(f'{headItem_k:>23}: {headItem_v}')
     
-    print(f"Body: \n {dumps(response.json(), indent=4)}")    
+    print(f"Body: \n {dumps(response.json(), indent=4)}")
