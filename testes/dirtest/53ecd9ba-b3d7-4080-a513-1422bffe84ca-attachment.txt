@@ -1,0 +1,22 @@
+ X-Content-Type-Options: nosniff
+       X-XSS-Protection: 1; mode=block
+          Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+                 Pragma: no-cache
+                Expires: 0
+        X-Frame-Options: DENY
+               Location: http://localhost:8089/api/v1/viagens/12
+           Content-Type: application/json;charset=UTF-8
+      Transfer-Encoding: chunked
+                   Date: Fri, 05 Aug 2022 16:16:49 GMT
+Body: 
+ {
+    "data": {
+        "id": 12,
+        "localDeDestino": "Bahia",
+        "dataPartida": "2022-07-20",
+        "dataRetorno": "2022-08-20",
+        "acompanhante": "Nenhum",
+        "regiao": "Norte"
+    },
+    "errors": []
+}
